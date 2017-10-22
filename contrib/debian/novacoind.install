@@ -1,0 +1,2 @@
+debian/bin/Bitnetd usr/bin
+src/Bitnetd usr/lib/Bitnet
